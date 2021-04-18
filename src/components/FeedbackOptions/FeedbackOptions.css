@@ -1,0 +1,8 @@
+.FeedbackOptions {
+  margin-bottom: 10px;
+}
+
+.FeedbackOptions__button:not(:last-child) {
+  margin-top: 10px;
+  margin-right: 10px;
+}
